@@ -13,7 +13,7 @@
 /*: question1
  ### 1. Create a function named `frozen` which takes no arguments. When this function is called, it prints "Let it go!".
  */
-// write your code here
+// write your code here//
 import Foundation
 
 func frozen () {
